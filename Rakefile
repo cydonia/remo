@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "remo"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{ruby emoticons parser}
+    gem.description = %Q{Parses a string and add Emoticons in it.}
     gem.email = "jordan@bracco.name"
     gem.homepage = "http://github.com/webs/remo"
     gem.authors = ["Jordan Bracco"]
